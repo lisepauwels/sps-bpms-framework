@@ -1,0 +1,10 @@
+{
+    "BPCE.21706.H": "3sigma",
+    "BPCE.21803.H": "3sigma",
+    "BPCN.22708.V": "3sigma",
+    "BPH.31808.H": "3sigma",
+    "BPH.41208.H": "3sigma",
+    "BPH.62008.H": "faulty",
+    "BPH.63008.H": "faulty",
+    "BPH.63608.H": "offset"
+}

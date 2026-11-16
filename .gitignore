@@ -1,0 +1,13 @@
+# Fetched NXCALS data -- regenerable with bpm_framework/scripts/fetch_data.py from the tracked
+# timestamp tables. Tables, bad/excluded BPM lists and the channel map ARE tracked.
+data/**/*.parquet
+
+# Plots -- regenerable with plot_data.py / plot_overview.py, too heavy to track.
+figures/
+
+# Orbit-side notes received from C. Lannoy (TE-MPE): not ours to publish.
+sps_bpm_orbit_notes_for_lise.md
+
+__pycache__/
+*.pyc
+.DS_Store
